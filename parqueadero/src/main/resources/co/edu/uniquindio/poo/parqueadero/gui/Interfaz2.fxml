@@ -22,11 +22,11 @@
             <Image url="@../../../../../../Images/R.jpg" />
          </image>
       </ImageView>
-      <Button fx:id="retirar" layoutX="109.0" layoutY="296.0" mnemonicParsing="false" opacity="0.0" prefHeight="57.0" prefWidth="64.0" text="Retirar">
+      <Button fx:id="retirar" layoutX="315.0" layoutY="296.0" mnemonicParsing="false" opacity="0.0" prefHeight="57.0" prefWidth="64.0" text="Retirar">
          <cursor>
             <Cursor fx:constant="OPEN_HAND" />
          </cursor></Button>
-      <Button fx:id="estacionar" layoutX="310.0" layoutY="296.0" mnemonicParsing="false" opacity="0.0" prefHeight="51.0" prefWidth="72.0" text="Estacionar">
+      <Button fx:id="estacionar" layoutX="109.0" layoutY="299.0" mnemonicParsing="false" opacity="0.0" prefHeight="51.0" prefWidth="72.0" text="Estacionar">
          <cursor>
             <Cursor fx:constant="OPEN_HAND" />
          </cursor></Button>
